@@ -18,7 +18,9 @@
   },
   "homepage": "https://github.com/EasterBohanon/FriendFinder#readme",
   "dependencies": {
+    "ajax": "0.0.4",
     "express": "^4.16.4",
-    "mysql": "^2.16.0"
+    "mysql": "^2.16.0",
+    "path": "^0.12.7"
   }
 }
