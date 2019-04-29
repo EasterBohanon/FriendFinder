@@ -1,7 +1,7 @@
 var Friends = [
     {
         name: "Cameron",
-        photo: "/app/public/images/Cameron.jpeg",
+        photo: "https://akns-images.eonline.com/eol_images/Entire_Site/2017515/rs_600x600-170615145244-600.Cameron-Dallas-Model.jl.061517.jpg?fit=around|700:700&crop=700:700;center,top&output-quality=90",
         scores: [
             "1",
             "2", 
@@ -18,7 +18,7 @@ var Friends = [
    
     {
         name: "Dante",
-        photo:"/app/public/images/Dante.jpeg",
+        photo:"https://tmssl.akamaized.net/images/portrait/originals/16136-1437471217.jpg",
         scores: [
             "2",
             "3", 
@@ -34,7 +34,7 @@ var Friends = [
 
     {
         name: "Marylin",
-        photo:"/app/public/images/Marylin.jpg",
+        photo:"https://pillsandpillowtalk.files.wordpress.com/2014/10/black-and-white_jessica-bell.jpg",
         scores: [
             "3",
             "4", 
@@ -50,7 +50,7 @@ var Friends = [
     },
     {
         name: "Deborah",
-        photo:"/app/public/images/Deborah.jpeg",
+        photo:"https://www.edexcelencia.org/sites/default/files/dsantiago%20-%20600-750px.JPG",
         scores: [
             "4",
             "5", 
@@ -66,7 +66,7 @@ var Friends = [
     },
     {
         name: "Faith",
-        photo:"/app/public/images/Faith.jpg",
+        photo:"https://media.swncdn.com/cms/CW/58915-prince-akachi-731123-unsplash.1200w.tn.jpg",
         scores: [
             "5",
             "1", 
